@@ -91,7 +91,7 @@
 
 **Reflexão (1 parágrafo):** *Com base nessa checagem, o quanto você confiaria na IA para investigar uma falha de software no seu futuro trabalho? Que tipo de erro ela mais cometeu?*
 
-[escreva aqui]
+[Baseado no trabalho desenvolvido, dá pra confiar na IA como uma grande biblioteca digital, ela trás dados de forma rápida mas nem sempre precisa, dá pra confiar mas não cegamente. utilizando-a como parceira em estudos, projetos de pesquisa amplia e agiliza o desenvolvimento de atividades]
 
 ## 7. Fontes
 
