@@ -1,7 +1,7 @@
-# Caça ao desastre: [NOME DO CASO]
+# Caça ao desastre: Knight Capital (2012)
 
-**Estudante:** [seu nome]
-**Disciplina:** Qualidade de Software, ADS, IFCE Campus Boa Viagem
+**Estudante:** João Paulo de Albuquerque Alves
+**Disciplina:**  Teste eQualidade de Software, ADS, IFCE Campus Boa Viagem
 **Unidade I:** Fundamentos da qualidade de software
 
 > Apague as instruções entre colchetes e os textos em itálico ao preencher.
@@ -82,7 +82,7 @@
 
 | # | Afirmação da IA | Classificação | O que a fonte diz | Fonte |
 |---|---|---|---|---|
-| 1 | [ ] | [ ] | [ ] | [ ] |
+| 1 | [Causa Técnica: Código Morto (Reused Flag) O sistema SMARS possuía uma funcionalidade antiga (chamada Power Peg), desativada anos antes em 2003, mas cujo código interno nunca fora removido por completo. A nova funcionalidade para o programa RLP reutilizou a mesma flag (parâmetro) que no passado ativava o Power Peg. ] | [Confirmada ] | [ O código RLP reutilizou uma bandeira que antes era usada para ativar uma função antiga conhecida como 'Power Peg'. Ordens enviadas com a bandeira reaproveitada para o oitavo servidor acionaram o código Power Peg defeituoso ainda presente naquele servidor.] | [Wikipedia ] |
 | 2 | [ ] | [ ] | [ ] | [ ] |
 | 3 | [ ] | [ ] | [ ] | [ ] |
 | 4 | [ ] | [ ] | [ ] | [ ] |
@@ -97,6 +97,5 @@
 
 *Formato ABNT. Mínimo de 2 fontes primárias (relatório oficial de investigação, documento de órgão regulador, artigo científico ou notícia da época). Indique quais são as primárias.*
 
-1. [referência] **(primária)**
-2. [referência] **(primária)**
-3. [referência]
+1. [https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf] **(primária)** Relatório da SEC
+2. [https://en.wikipedia.org/wiki/Knight_Capital_Group] **(primária)** Wikipedia
