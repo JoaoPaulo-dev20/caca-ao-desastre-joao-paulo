@@ -20,11 +20,11 @@
 
 | Data | Evento |
 |---|---|
-| [data] | [evento] |
-| [data] | [evento] |
-| [data] | [evento] |
-| [data] | [evento] |
-| [data] | [evento] |
+| [2003] | [Desenvolvimento da funcionalidade Power Peg no SMARS (posteriormente desativada, mantendo o código morto no sistema).] |
+| [27–31 de Julho de 2012] | [Deploy manual do RLP em 8 servidores de produção, omitindo acidentalmente o 8º servidor.] |
+| [1 de Agosto de 2012] | [O servidor desatualizado entra em loop infinito na abertura do mercado, gerando 4 milhões de ordens erróneas e um prejuízo de US$ 440 milhões em 45 minutos.] |
+| [Dezembro de 2012] | [Em crise financeira severa, a Knight Capital aceita a oferta de fusão/aquisição pela Getco.] |
+| [Outubro de 2013] | [SEC aplica multa de US$ 12 milhões e o setor adota novas exigências de kill switches e governança de software.] |
 
 ## 3. Causa técnica
 
