@@ -12,7 +12,7 @@
 
 *Em até 2 parágrafos: o que aconteceu, quando, onde, qual sistema estava envolvido e quais foram as consequências (humanas, financeiras, sociais).*
 
-[escreva aqui]
+[Em 1º de agosto de 2012, na Bolsa de Valores de Nova York (NYSE), a corretora Knight Capital sofreu um desastre operacional quando uma atualização manual no SMARS — seu sistema automatizado de roteamento de ordens — deixou 1 de seus 8 servidores sem o novo código, reativando acidentalmente um algoritmo obsoleto (Power Peg) que executou mais de 4 milhões de negociações errôneas em loop ao longo de apenas 45 minutos. Essa falha gerou um prejuízo direto de US$ 440 milhões, destruiu mais de 75% do valor de mercado da empresa em dois dias e custou uma multa de US$ 12 milhões aplicada pela SEC, levando à perda de empregos, ao afastamento da liderança executiva e ao fim da companhia como entidade independente após ser vendida às pressas para a Getco]
 
 ## 2. Linha do tempo
 
@@ -83,8 +83,8 @@
 | # | Afirmação da IA | Classificação | O que a fonte diz | Fonte |
 |---|---|---|---|---|
 | 1 | [Causa Técnica: Código Morto (Reused Flag) O sistema SMARS possuía uma funcionalidade antiga (chamada Power Peg), desativada anos antes em 2003, mas cujo código interno nunca fora removido por completo. A nova funcionalidade para o programa RLP reutilizou a mesma flag (parâmetro) que no passado ativava o Power Peg. ] | [Confirmada ] | [ O código RLP reutilizou uma bandeira que antes era usada para ativar uma função antiga conhecida como 'Power Peg'. Ordens enviadas com a bandeira reaproveitada para o oitavo servidor acionaram o código Power Peg defeituoso ainda presente naquele servidor.] | [Wikipedia ] |
-| 2 | [ ] | [ ] | [ ] | [ ] |
-| 3 | [ ] | [ ] | [ ] | [ ] |
+| 2 | [Horário do ocorrido: 1º de agosto de 2012, logo na abertura do mercado, entre 09:30 e 10:15 (horário local). ] | [Não verificavel ] | [Menciona data, mas não horário estimado ] | [Wikipedia ] |
+| 3 | [ Multa de US$ 12 milhões aplicada pela SEC por descumprimento da Market Access Rule.] | [Confirmada ] | [![alt text](image.png) ] | [FEC ] |
 | 4 | [ ] | [ ] | [ ] | [ ] |
 | 5 | [ ] | [ ] | [ ] | [ ] |
 | 6 | [ ] | [ ] | [ ] | [ ] |
