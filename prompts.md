@@ -1,8 +1,8 @@
 # Registro do uso da IA
 
-**Estudante:** [seu nome]
-**Caso:** [nome do caso]
-**Ferramenta(s) usada(s):** [ex.: ChatGPT, Claude, Gemini, Copilot; indique a versão ou o plano, se souber]
+**Estudante:** João Paulo de Albuquerque Alves
+**Caso:** Knight Capital (2012)
+**Ferramenta(s) usada(s):** Gemini 3.6 Flash / Gemini 3.8 Flash
 
 > Registre todos os prompts relevantes, na ordem em que foram usados. Não é preciso colar a resposta inteira da IA: resuma o que ela respondeu e diga o que você fez com isso.
 
@@ -10,17 +10,18 @@
 
 ## Prompt 1
 
-**Data:** [dd/mm/aaaa]
+**Data:** [05/10/2026]
 
 **Prompt:**
 
 ```
-[cole aqui o texto exato que você enviou]
+Para fins de pesquisa e estudo, traga informações relevantes sobre o caso Knight Capital (2012)
+
 ```
 
-**Resumo da resposta:** [o que a IA respondeu, em 2 ou 3 linhas]
+**Resumo da resposta:** O caso da Knight Capital Group (2012) é um dos exemplos mais emblemáticos e estudados no mundo sobre risco operacional, falha de implantação de software e negociação de alta frequência (HFT).
 
-**O que fiz com isso:** [usei no README? conferi em qual fonte? descartei por quê?]
+**O que fiz com isso:** [utilizei no readme de forma resumida]
 
 ---
 
