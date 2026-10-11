@@ -87,5 +87,8 @@ A falha do caso Knight Capital decorreu de ambos os fatores: houve uma falha de 
 
 ## 7. Fontes
 
-1. [https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf] **(primária)** Relatório da SEC
-2. [https://en.wikipedia.org/wiki/Knight_Capital_Group] **(primária)** Wikipedia
+ESTADOS UNIDOS. Securities and Exchange Commission (SEC). Administrative Proceeding File No. 3-15570: In the Matter of Knight Capital Americas LLC (Release No. 34-70694). Washington, D.C., 16 out. 2013. Disponível em: https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf. Acesso em: 11 out. 2026.
+
+SECURITIES AND EXCHANGE COMMISSION (SEC). Administrative Proceeding Release No. 34-70694: In the Matter of Knight Capital Americas LLC. Washington, D.C.: SEC, 16 out. 2013. Disponível em: https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf. Acesso em: 11 out. 2026.
+
+SOUZA, Renato William Rodrigues de. Fundamentos da Qualidade de Software. Unidade I, Aula 1. Boa Viagem: IFCE Campus Boa Viagem, 2026. Material didático da disciplina de Qualidade de Software.
