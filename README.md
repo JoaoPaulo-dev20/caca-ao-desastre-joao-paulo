@@ -1,22 +1,19 @@
 # Caça ao desastre: Knight Capital (2012)
 
 **Estudante:** João Paulo de Albuquerque Alves
-**Disciplina:**  Teste eQualidade de Software, ADS, IFCE Campus Boa Viagem
+**Disciplina:**  Teste e Qualidade de Software, ADS, IFCE Campus Boa Viagem
 **Unidade I:** Fundamentos da qualidade de software
 
-> Apague as instruções entre colchetes e os textos em itálico ao preencher.
 
 ---
 
 ## 1. Resumo do caso
 
-*Em até 2 parágrafos: o que aconteceu, quando, onde, qual sistema estava envolvido e quais foram as consequências (humanas, financeiras, sociais).*
 
 [Em 1º de agosto de 2012, na Bolsa de Valores de Nova York (NYSE), a corretora Knight Capital sofreu um desastre operacional quando uma atualização manual no SMARS — seu sistema automatizado de roteamento de ordens — deixou 1 de seus 8 servidores sem o novo código, reativando acidentalmente um algoritmo obsoleto (Power Peg) que executou mais de 4 milhões de negociações errôneas em loop ao longo de apenas 45 minutos. Essa falha gerou um prejuízo direto de US$ 440 milhões, destruiu mais de 75% do valor de mercado da empresa em dois dias e custou uma multa de US$ 12 milhões aplicada pela SEC, levando à perda de empregos, ao afastamento da liderança executiva e ao fim da companhia como entidade independente após ser vendida às pressas para a Getco]
 
 ## 2. Linha do tempo
 
-*Mínimo de 5 eventos, do desenvolvimento do sistema até as consequências e correções.*
 
 | Data | Evento |
 |---|---|
@@ -28,9 +25,7 @@
 
 ## 3. Causa técnica
 
-*Explique qual foi o defeito no software, em linguagem que um colega de turma entenda. Se possível, mostre um trecho de código, pseudocódigo ou cálculo que ilustre o problema. Diferencie o defeito (a imperfeição no artefato) da falha (o comportamento incorreto observado).*
-
-[escreva aqui]
+O defeito no software da Knight Capital foi uma imperfeição estática no código-fonte do sistema SMARS, caracterizada pelo acúmulo de código morto desativado em 2003 (Power Peg) e pela reutilização imprudente de uma mesma variável (flag) para ativar a nova funcionalidade do programa RLP em 2012; já a falha foi a manifestação dinâmica desse defeito em produção, que ocorreu quando o servidor desatualizado interpretou a nova flag sob o código antigo e disparou um loop infinito e descontrolado de compra e venda de ações na bolsa, resultando na execução errônea de 4 milhões de ordens e em um prejuízo de US$ 440 milhões em apenas 45 minutos.
 
 ## 4. Análise com os conceitos da Unidade I
 
